@@ -34,3 +34,11 @@ section#telefone {
     background-color: blue;
     background: url('../imagens/frame-iphone1.png') no-repeat;
 }
+
+iframe#tela {
+    position: relative;
+    top: 56px;
+    left: 15px;
+    width: 185px;
+    height: 327px;
+}
